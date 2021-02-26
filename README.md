@@ -22,7 +22,8 @@ Para conocer la programación de talleres y actividades que preparamos en el clu
     <tr>
       <td rowspan="1">R</td>
       <td>1. Introducción a R </td>
-      <td><a href="https://analyticsclub.github.io/Talleres/Taller%20R/Taller_R_notebook.html">Taller R - Introducción</a></td>
+      <td><a href="https://analyticsclub.github.io/Talleres/Taller%20R/Taller_R_notebook.html">Taller R - Introducción</a><br><a            href="https://github.com/AnalyticsClub/Talleres/blob/main/Taller%20R/TallerR.xlsx">Datos</a>
+      </td>
     </tr>
      <tr>
       <td rowspan="1">Python</td>
