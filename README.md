@@ -2,7 +2,8 @@
 
 <img hight="250" width="250" alt="GIF" align="right" src="https://github.com/AnalyticsClub/AnalyticsClub/blob/main/AC_AZUL.PNG">
 
-En este repositorio podrás encontrar todos los archivos referentes a los talleres que realizamos como parte del club, para que siempre los tengas disponibles. Si te perdiste el taller no solo puedes encontrarlo acá, sino que puedes ver la grabación del mismo en nuestro canal de [youtube](https://www.youtube.com/channel/UCGxUSr66sM6TYWx1ZFwibCQ/featured)
+En este repositorio podrás encontrar todos los archivos referentes a los talleres que realizamos como parte del club, para que siempre los tengas disponibles. 
+Si te perdiste el taller no solo puedes encontrar su codigo acá, sino que puedes ver la grabación del mismo en nuestro canal de [youtube](https://www.youtube.com/channel/UCGxUSr66sM6TYWx1ZFwibCQ/featured)
 
 Nuestros talleres estan abiertos para todos, sin importar su nivel de conocimiento o experticia en el tema, el único requisito es pasión y ganas por aprender. Tenemos talleres para todos, que van desde los comandos y manejo mas básico de del software, hasta la construccion de modelos y aplicaciones de manejo de datos, machine learning e inteligencia artificial.
 
