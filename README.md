@@ -20,7 +20,7 @@ Nuestros talleres estan abiertos a todos aquellos que esten dispuestos a aprende
     <tr>
       <td rowspan="1">R</td>
       <td>1. Introducción a R </td>
-      <td><a href="https://github.com/AnalyticsClub/Talleres/blob/main/Taller%20R/Taller_R_notebook.html">Taller R - Introducción</a></td>
+      <td><a href="https://analyticsclub.github.io/Talleres/Taller%20R/Taller_R_notebook.html">Taller R - Introducción</a></td>
     </tr>
      <tr>
       <td rowspan="1">Python</td>
