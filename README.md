@@ -6,7 +6,7 @@ En este repositorio podrás encontrar todos los archivos referentes a los taller
 
 Nuestros talleres estan abiertos para todos, sin importar su nivel de conocimiento o experticia en el tema, el único requisito es pasión y ganas por aprender. Tenemos talleres para todos, que van desde los comandos y manejo mas básico de del software, hasta la construccion de modelos y aplicaciones de manejo de datos, machine learning e inteligencia artificial.
 
-Para conocer la programación de talleres y actividades que preparamos en el club, puedes seguirnos en nuestras redes, cuyos links encontrarás en nuestro perfil bajo la sección de [contacto](https://github.com/AnalyticsClub)
+Para conocer la programación de talleres y actividades que preparamos en el club, puedes seguirnos en nuestras redes, cuyos links encontrarás en nuestro perfil bajo la sección de [contacto](https://github.com/AnalyticsClub).
 
 ## Contenido
 
