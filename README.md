@@ -4,11 +4,11 @@
 
 En este repositorio podrás encontrar todos los archivos referentes a los talleres que realizamos como parte del club, para que siempre los tengas disponibles. Si te perdiste el taller no solo puedes encontrarlo acá, sino que puedes ver la grabacióndel mismo en nuestro canal de [youtube](https://www.youtube.com/channel/UCGxUSr66sM6TYWx1ZFwibCQ/featured)
 
-Los talleres son dictados por miembros del club quienes son estudiantes de últimos semestres de ingeniería o graduados que se desempeñan como científicos de datos en diversas industrias. 
+Los talleres son dictados por miembros del club, quienes son estudiantes de últimos semestres de ingeniería o graduados que se desempeñan como científicos de datos en diversas industrias. 
 
-Nuestros talleres estan abiertos a todos aquellos que esten dispuestos a aprender, sin importar su nivel de conocimiento o expertisia en el tema. Tenemos talleres para todos, que van desde los comandos y manejo mas básico de del software, hasta la construccion de modelos y aplicaciones de manejo de datos y Machine Learning.
+Nuestros talleres estan abiertos a todos aquellos que esten dispuestos a aprender, sin importar su nivel de conocimiento o experticia en el tema. Tenemos talleres para todos, que van desde los comandos y manejo mas básico de del software, hasta la construccion de modelos y aplicaciones de manejo de datos y Machine Learning.
 
-Para conocer la programación de talleres y actividades que preparamos en el club puedes seguirnos en nuestras redes, cuyos links encontraras en nuestro perfil bajo la sección de [contacto](https://github.com/AnalyticsClub)
+Para conocer la programación de talleres y actividades que preparamos en el club, puedes seguirnos en nuestras redes, cuyos links encontrarás en nuestro perfil bajo la sección de [contacto](https://github.com/AnalyticsClub)
 
 ## Contenido
 
