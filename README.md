@@ -38,3 +38,5 @@ Para conocer la programación de talleres y actividades que preparamos en el clu
 
 * Tutorial descarga R en [Windows](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-windows-5f503f708027) y en [Mac](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-mac-e911606ce4f4)
 * Tutorial descarga [Python](https://medium.com/@GalarnykMichael/install-python-anaconda-on-windows-2020-f8e188f9a63d)
+* [Cheatsheet R](https://rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf)
+* [Cheatsheet Python](https://websitesetup.org/wp-content/uploads/2020/04/Python-Cheat-Sheet.png)
