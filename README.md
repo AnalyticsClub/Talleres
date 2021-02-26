@@ -2,7 +2,7 @@
 
 <img hight="250" width="250" alt="GIF" align="right" src="https://github.com/AnalyticsClub/AnalyticsClub/blob/main/AC_AZUL.PNG">
 
-En este repositorio podrás encontrar todos los archivos referentes a los talleres que realizamos como parte del club, para que siempre los tengas disponibles. Si te perdiste el taller no solo puedes encontrar el codigo acá sino que puedes ver la grabación en nuestro canal de [youtube](https://www.youtube.com/channel/UCGxUSr66sM6TYWx1ZFwibCQ/featured)
+En este repositorio podrás encontrar todos los archivos referentes a los talleres que realizamos como parte del club, para que siempre los tengas disponibles. Si te perdiste el taller no solo puedes encontrarlo acá, sino que puedes ver la grabacióndel mismo en nuestro canal de [youtube](https://www.youtube.com/channel/UCGxUSr66sM6TYWx1ZFwibCQ/featured)
 
 Los talleres son dictados por miembros del club quienes son estudiantes de últimos semestres o graduados que se desempeñan como científicos de datos en diversas industrias. 
 
