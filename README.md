@@ -28,9 +28,14 @@ Para conocer la programación de talleres y actividades que preparamos en el clu
       </td>
     </tr>
      <tr>
-      <td rowspan="1">Python</td>
+      <td rowspan="2">Python</td>
       <td>1. Introducción a Python </td>
       <td><a href="https://github.com/AnalyticsClub/Talleres/blob/main/Taller%20Python/Taller%20-%20Python%20B%C3%A1sico.ipynb">Taller Python - Introducción</a></td>
+     </tr>
+    <tr>
+      <td>2. Machine Learning en Python </td>
+      <td><a href="https://github.com/AnalyticsClub/Talleres/blob/main/Taller%20ML/Taller%20ML%20-%20AC%20(Esqueleto).ipynb">Taller Python - Machine Learning</a><br><a            href="https://github.com/AnalyticsClub/Talleres/blob/main/Taller%20ML/Churn_Modelling.csv">Datos</a>
+      </td>
      </tr>
   </tbody>
 </table>
