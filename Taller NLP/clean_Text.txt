@@ -1,0 +1,20 @@
+def clean_text(text):
+    # Limpia el Tweet
+    text = clean_tweet(text)
+    # Elimina espacios, emojis, números y convierte todo a minúscula.
+    text = text.replace('\n','').replace('\r','').replace('\t','').strip().lower()
+    text = re.sub(r'\d+', '', text)
+    allchars = [str for str in text] 
+    emoji_list = [c for c in allchars if c in emoji.UNICODE_EMOJI]
+    text = ' '.join([str for str in text.split() if not any(i in str for i in emoji_list)])
+    text=''.join((c for c in unicodedata.normalize('NFD',text) if unicodedata.category(c) != 'Mn'))
+    text = re.sub('[^0-9a-zA-Z]+', ' ', text)
+    # Tokenize
+    token = parser(text)
+    # Lemmatize
+    token = [word.lemma_.lower().strip() if word.lemma_ != "-PRON-" else word.lower_ for word in token]
+    # Quita stopwords y signos de puntuación
+    token = ' '.join([word for word in token if word not in stop_words and word not in punctuations])
+    token = unidecode.unidecode(token)
+    token = ' '.join([w for w in token.split() if len(w)>1])
+    return token
